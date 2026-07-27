@@ -126,3 +126,10 @@ or simply open the notebook in Jupyter and run all cells.
 - Uses walk-forward validation to prevent lookahead bias.
 - Portfolio statistics are computed using only historical information available at each rebalance.
 - Includes a synthetic data fallback to ensure reproducibility when market data is unavailable.
+#quick links
+1.1 https://www.youtube.com/watch?v=fX5bYmnHqqE
+ 1.2 https://www.youtube.com/watch?v=Bru4Mkr601Q
+2.1 https://www.youtube.com/watch?v=kXqu-TqEl7Q
+  2.2 https://www.youtube.com/watch?v=9GA2WlYFeBU
+3.1 https://www.youtube.com/watch?v=az7M5X3BEWU
+  3.2 https://www.youtube.com/watch?v=sjq3toGtr0U
